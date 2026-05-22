@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "smart-farmai",
+  "name": "smart-farm-front1",
   "compatibility_date": "2026-05-20",
   "observability": {
     "enabled": true
